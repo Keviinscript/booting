@@ -5,14 +5,14 @@
 body {
   overflow-y: hidden;
   overflow-x: hidden;
-  font-family: Roboto, sans-serif;
+  font-family: Open Sans, sans-serif;
 }
 
-@layer base {
+/* @layer base {
   html {
     font-family: Open Sans, sans-serif;
   }
-}
+} */
 
 @layer utilities {
   /* Chrome, Safari and Opera */
